@@ -1,4 +1,4 @@
-#EDR Detectors
+# EDR Detectors
 
 This respository contains code in various languages for detecting electrodermal responses in the electrodermal activity from a fingertip, created for the Biomusic app.
 
